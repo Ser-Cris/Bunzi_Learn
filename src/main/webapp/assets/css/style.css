@@ -1,0 +1,114 @@
+body{
+    background: #FFFFFF; /*Verde: #009574 -> #74BEC1; Azul: #002E60 -> #345177 | #516091*/
+    display: grid;
+    min-height: 100vh;
+    grid-template-rows: auto 1fr auto;
+    /*background: #1F1F29 | #F1F1F5;
+    color: #F1F1F5;*/ /*Modo oscuro*/
+    /*word-wrap: break-word;
+    word-break: break-all;*/
+}
+header{
+
+}
+nav{
+    background: #002E60;
+    border-radius: 0 0 20px 20px;
+}
+footer{
+    background: #002E60;
+    /*background: #335880;*/
+    color: #F1F1F5;
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+}
+a {
+    text-decoration: none;
+}
+#main-carousel-item,
+.carousel-item {
+    height: 550px;
+}
+
+.card-img-top {
+    width: auto;
+    height: 18rem;
+}
+/*.tab-box{
+    margin-left: 50%;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 2px solid rgba(299, 299, 299);
+    font-size: 18px;
+    position: relative;
+}
+.tab-box .tab-btn{
+    font-size: 18px;
+    font-weight: 600;
+    color: #919191;
+    background: none;
+    border: none;
+}
+.tab-box .tab-btn.active{
+    color: #7370ff;
+}
+.content-box{
+    padding: 20px;
+}
+.content-box .content{
+    display: none;
+}
+.content-box .content.active{
+    display: block;
+}
+.line{
+    position: absolute;
+    top: 38px;
+    left: 118px;
+    width: 90px;
+    height: 5px;
+    background-color: #7370ff;
+    border-radius: 10px;
+    transition: all .3s ease-in-out;
+}
+.tbl-container{
+    max-height: fit-content;
+    min-width: fit-content;
+}
+.tbl-fixed{
+    overflow-x: scroll;
+    overflow-y: scroll;
+    max-height: 55vh;
+    /*border-radius: 10px;*/
+/*}*/
+table{
+    min-width: max-content;
+    border-radius: 10px;
+}
+thead{
+    position: sticky;
+    top: 0;
+    background: #009574;
+    color: #F1F1F5;
+    /*background-color: #6682a0;*/
+}
+/*.table-dark thead{
+  --bs-table-bg: #009574;
+}*/ /*Modo oscuro*/
+th:first-child,
+td:first-child {
+    border-radius: 10px 0 0 10px;
+    /*width: calc(max-content/5);*/
+    /*width: 124px*/
+}
+th:last-child,
+td:last-child {
+    border-radius: 0 10px 10px 0;
+    /*width: calc(max-content/5);*/
+    /*width: 124px*/
+}
+.bg-badge{
+    background-color: #009574;
+}
