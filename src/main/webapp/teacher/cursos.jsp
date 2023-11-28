@@ -8,7 +8,7 @@
             </h1>
         </div>
         <div class="list-group col-10">
-            <a href="#" class="list-group-item list-group-item-action " aria-current="true">
+            <a href="unCurso.jsp" class="list-group-item list-group-item-action " aria-current="true">
                 <div class="d-flex w-100 justify-content-between">
                     <h5 class="mb-1">Python</h5>
                     <small>15-20 años</small>
