@@ -47,7 +47,7 @@
 
             <div class="field is-grouped">
                 <div class="control">
-                    <button class="button is-link">Submit</button>
+                    <a href="teacher/index.jsp"><button class="button is-link"  type="button">Submit</button></a>
                 </div>
                 <div class="control">
                     <button class="button is-link is-light">Cancel</button>
