@@ -124,6 +124,7 @@
         <button class="modal-close is-large" aria-label="close"></button>
     </div>
 </main>
+<jsp:include page="footer.jsp"></jsp:include>
 </body>
 </html>
 <script>

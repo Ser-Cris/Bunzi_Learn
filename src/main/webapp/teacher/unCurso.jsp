@@ -1,5 +1,6 @@
 <jsp:include page="head.jsp"></jsp:include>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<main>
 <div class="columns is-mobile is-multiline is-centered">
     <div class="column is-10">
         <h1 class="is-size-2 has-text-weight-semibold	">
@@ -60,6 +61,8 @@
         </div>
     </div>
 </div>
+</main>
+<jsp:include page="footer.jsp"></jsp:include>
 
 </body>
 </html>

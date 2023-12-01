@@ -9,6 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>BunziLearn</title>
   <link rel="stylesheet" type="text/css" href="../assets/css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="../assets/css/bulma.css">
   <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
@@ -70,13 +71,13 @@ external-inventory-business-management-justicon-lineal-color-justicon.png">-->
         </a>
 
         <div class="navbar-dropdown is-right">
-          <a class="navbar-item is-size-6">
+          <a class="navbar-item is-size-6" href="perfil.jsp">
             Perfil
           </a>
           <a class="navbar-item is-size-6">
             Ayuda
           </a>
-          <a class="navbar-item  is-size-6">
+          <a class="navbar-item  is-size-6" href="../login.jsp">
             Cerrar Sesión
           </a>
           <hr class="navbar-divider">
