@@ -11,3 +11,8 @@
 <a href="hello-servlet">Hello Servlet</a>
 </body>
 </html>
+<script>
+    window.onload =function redireccion(){
+        window.location = "login.jsp"
+    }
+</script>
