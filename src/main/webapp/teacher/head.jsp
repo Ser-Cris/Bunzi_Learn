@@ -74,7 +74,7 @@ external-inventory-business-management-justicon-lineal-color-justicon.png">-->
           <a class="navbar-item is-size-6" href="perfil.jsp">
             Perfil
           </a>
-          <a class="navbar-item is-size-6">
+          <a class="navbar-item is-size-6" href="ayuda.jsp">
             Ayuda
           </a>
           <a class="navbar-item  is-size-6" href="../login.jsp">
