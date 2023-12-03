@@ -1,5 +1,10 @@
 <jsp:include page="head.jsp"></jsp:include>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<style>
+    body{
+        background-image: url("../assets/img/icon_bonzi.png");
+    }
+</style>
 <main>
 <div class="columns is-mobile">
     <div class="column is-10 is-offset-1">
@@ -53,7 +58,7 @@
                 </div>
             </div>
         </div>
-        <div class="column is-11">
+        <div class="column is-11 box">
             <h4 class="is-italic has-text-weight-bold is-size-4">Detalles sobre cursos:</h4>
             <div class="columns is-multiline">
                 <div class="column is-4">
