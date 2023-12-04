@@ -49,10 +49,10 @@ external-inventory-business-management-justicon-lineal-color-justicon.png">-->
         </a>
 
         <div class="navbar-dropdown">
-          <a class="navbar-item" href="#">
+          <a class="navbar-item" href="cursosDisponibles.jsp">
               Cursos disponibles
           </a>
-          <a class="navbar-item" href="#">
+          <a class="navbar-item" href="cursosInscritos.jsp">
               Cursos inscritos
           </a>
 
@@ -73,9 +73,6 @@ external-inventory-business-management-justicon-lineal-color-justicon.png">-->
         <div class="navbar-dropdown is-right">
           <a class="navbar-item is-size-6" href="perfil.jsp">
             Perfil
-          </a>
-          <a class="navbar-item is-size-6" href="ayuda.jsp">
-            Ayuda
           </a>
           <a class="navbar-item  is-size-6" href="../login.jsp">
             Cerrar Sesión

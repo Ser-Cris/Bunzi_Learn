@@ -72,45 +72,45 @@
             <div class="row">
                 <h1 class="h1">Equipo de trabajo</h1>
                 <div class="card" style="width: 20rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="../assets/img/arturo.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Arturo Ehtan Duran Huerta.</p>
                     </div>
                 </div>
                 <div class="card" style="width: 20rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="../assets/img/renteria.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Jose Angel Renteria Rivera.</p>
                     </div>
                 </div>
                 <div class="card" style="width: 20rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="../assets/img/ary.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Ary Rafael Sánchez Hernández.</p>
                     </div>
                 </div>
                 <div class="card" style="width: 20rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="../assets/img/cris.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Cristobal Eduardo Serrano Bahena.</p>
                     </div>
                 </div>
                 <div class="card invisible" style="width: 20rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="../assets/img/hassi.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">.</p>
                     </div>
                 </div>
                 <div class="card" style="width: 20rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="../assets/img/hassi.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Hassiel Ulises Soria Lopez.</p>
                     </div>
                 </div>
                 <div class="card" style="width: 20rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="../assets/img/emi.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Jose Emiliano Zúñiga Hernández</p>
                     </div>
                 </div>
             </div>

@@ -13,7 +13,7 @@
                     <h5 class="mb-1">Python</h5>
                     <small>15-20 años</small>
                 </div>
-                <p class="mb-1">Curso enfocado en temas de listas diccionarios y tuplas.</p>
+                <p class="mb-1">Curso enfocado en temas de listas diccionarios y tuplas...</p>
                <small>meet.google.com/vca-rrrm-hji.</small>
             </a>
             <a href="#" class="list-group-item list-group-item-action">
